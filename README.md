@@ -1,4 +1,5 @@
-<header>
+#My Skills Repository
+A place to learn GitHub and CollectionBuilder skills for the Pets in America project.
 
 <!--
   <<< Author notes: Course header >>>
